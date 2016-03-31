@@ -1,0 +1,10 @@
+D:\Projects\MouseClick2\MouseClick2\bin\Debug\MouseClick.exe.config
+D:\Projects\MouseClick2\MouseClick2\bin\Debug\MouseClick.exe
+D:\Projects\MouseClick2\MouseClick2\bin\Debug\MouseClick.pdb
+D:\Projects\MouseClick2\MouseClick2\obj\Debug\MouseClick2.Help.resources
+D:\Projects\MouseClick2\MouseClick2\obj\Debug\MouseClick2.Form1.resources
+D:\Projects\MouseClick2\MouseClick2\obj\Debug\MouseClick2.Properties.Resources.resources
+D:\Projects\MouseClick2\MouseClick2\obj\Debug\MouseClick.csproj.GenerateResource.Cache
+D:\Projects\MouseClick2\MouseClick2\obj\Debug\MouseClick.exe
+D:\Projects\MouseClick2\MouseClick2\obj\Debug\MouseClick.pdb
+D:\Projects\MouseClick2\MouseClick2\obj\Debug\MouseClick.csprojResolveAssemblyReference.cache
